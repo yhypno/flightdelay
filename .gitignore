@@ -1,0 +1,6 @@
+# Keep this repository focused on the frontend app only.
+/*
+/.*
+!/.gitignore
+!/frontend/
+!/frontend/**
